@@ -1,0 +1,1 @@
+# test-vscode-first-run-notice
